@@ -1,0 +1,21 @@
+/* .customTextField .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline{
+    border-bottom-color: yellow;
+} */
+
+.customTextField .MuiTextField-root:hover{
+    border-color: yellow;
+}
+  
+.customTextField .MuiTextField-root:focus{
+    border-color: yellow;
+}
+  
+.customTextField .MuiTextField-root:active{
+    border-color: yellow;
+}
+
+.primary{
+    background-color: green;
+    color: white;
+}
+  
